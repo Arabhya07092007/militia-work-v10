@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+h2{
+  color: rgb(92, 9, 117);
+  text-shadow: rgb(19, 3, 54);
+  text-align: center;
+  text-emphasis: font;
+  ;
+}
+
+Input {
+  width:150px;
+  height:30px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  background-color: rgb(83, 170, 241);
+  outline: 20px;
+
+}
+
+
+
+
+
+
